@@ -1,16 +1,20 @@
-## Hi there 👋
+# Jianing Zhang
 
-<!--
-**spearsolivia-ouo/spearsolivia-ouo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Undergraduate student in Computer Science at **Hunan University**.
 
-Here are some ideas to get you started:
+I am interested in computer vision, generative models, and image editing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research Interests
+
+- Computer vision
+- Generative models
+- Image editing and manipulation
+
+## Education
+
+**Hunan University** · Computer Science  
+Undergraduate student · 2025–present
+
+## Links
+
+[OpenReview](https://openreview.net/profile?id=~Jianing_Zhang18) · [GitHub](https://github.com/spearsolivia-ouo)
